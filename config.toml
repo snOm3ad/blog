@@ -1,0 +1,20 @@
+baseURL = 'https://afermentingprogrammer.dev/'
+languageCode = 'en-us'
+title = 'A Fermenting Programmer'
+theme = 'lines'
+
+[author]
+  name = "Oliver T."
+
+[menu]
+  [[menu.main]]
+    identifier = "index"
+    name       = "Index"
+    url        = "/"
+    weight     = -111
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+    weight     = -20

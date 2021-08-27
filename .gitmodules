@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:snOm3ad/snom3ad.github.io.git
+	branch = master
