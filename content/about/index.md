@@ -8,7 +8,7 @@ I am an Industrial Engineering graduate based in Montreal with a strong passion 
 
 I'm currently in love with Rust 🦀 and trying to get into DevOps.
 
-In my spare time I also dwindle around in:
+In my spare time I also tinker around in:
 - Python
 - Golang
 - Web Stuff: JS, HTML and CSS
